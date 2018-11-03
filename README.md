@@ -3,17 +3,10 @@
         By Mark Spencer <markster@digium.com> and the Asterisk.org developer community.
         Copyright (C) 2001-2016 Digium, Inc. and other copyright holders.
 ```
-## SECURITY
-
-  It is imperative that you read and fully understand the contents of
-the security information document before you attempt to configure and run
-an Asterisk server.
-
-See [Important Security Considerations] for more information.
 
 ## WHAT IS ASTERISK ?
 
-  Asterisk is an open source framework for developing state-of-the-art communications solutions. Developers use Asterisk to create innovative, custom products because it makes it easy to build almost any communications application you can imagine. It includes hundreds of pre-built components that handle the complex, low-level details of voice, video, and text communications. Asterisk powers many applications, including automatic call distributors, conference bridges, voicemail, unified messaging, and more. Discover how Asterisk can power your next-generation communications deployment.
+  Asterisk is an open source framework for developing state-of-the-art communications solutions. Developers use Asterisk to create innovative, custom products because it makes it easy to build almost any communications application you can imagine. It includes hundreds of pre-built components that handle the complex, low-level details of voice, video, and text communications. Asterisk powers many applications, including automatic call distributors, conference bridges, voicemail, unified messaging, and hundreds of more [applications]. Discover how Asterisk can power your next-generation communications deployment.
   
   The original Asterisk code was written by Mark Spencer, the founder of Digium. It started out as the core of his office phone system, and now it powers millions of business phone systems around the world. Since its initial release, Asterisk has continued to be enhanced by a community of thousands of users and developers worldwide.
   
@@ -258,6 +251,7 @@ Welcome to the growing worldwide community of Asterisk users!
 
 Asterisk is a trademark of Digium now acquired by Sangoma, Inc.
 
+[Apllications]: https://www.asterisk.org/get-started/applications
 [home page]: https://www.asterisk.org
 [support]: https://www.asterisk.org/support
 [wiki]: https://wiki.asterisk.org/
