@@ -6,7 +6,7 @@
 
 ## WHAT IS ASTERISK ?
 
-  Asterisk is an open source framework for developing state-of-the-art communications solutions. Developers use Asterisk to create innovative, custom products because it makes it easy to build almost any communications application you can imagine. It includes hundreds of pre-built components that handle the complex, low-level details of voice, video, and text communications. Asterisk powers many applications, including automatic call distributors, conference bridges, voicemail, unified messaging, and hundreds of more [applications]. Discover how Asterisk can power your next-generation communications deployment.
+  Asterisk is an open source framework for developing state-of-the-art communications solutions. Developers use Asterisk to create innovative, custom products because it makes it easy to build almost any communications application you can imagine. It includes hundreds of pre-built components that handle the complex, low-level details of voice, video, and text communications. Asterisk powers many applications, including automatic call distributors, conference bridges, voicemail, unified messaging, and hundreds of more [applications](https://www.asterisk.org/get-started/applications). Discover how Asterisk can power your next-generation communications deployment.
   
   The original Asterisk code was written by Mark Spencer, the founder of Digium. It started out as the core of his office phone system, and now it powers millions of business phone systems around the world. Since its initial release, Asterisk has continued to be enhanced by a community of thousands of users and developers worldwide.
   
