@@ -1,6 +1,6 @@
-# The Asterisk(R) Open Source PBX
+# The Asterisk Open Source IP PBX
 ```text
-        By Mark Spencer <markster@digium.com> and the Asterisk.org developer community.
+        Developed by Mark Spencer <markster@digium.com> and the Asterisk.org developer community.
         Copyright (C) 2001-2016 Digium, Inc. and other copyright holders.
 ```
 
