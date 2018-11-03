@@ -37,18 +37,7 @@ Supported telephony hardware includes:
 * The Xorcom Astribank channel bank
 * VoiceTronix OpenLine products
 
-### UPGRADING FROM AN EARLIER VERSION
-
-  If you are updating from a previous version of Asterisk, make sure you
-read the [UPGRADE.txt] file in the source directory. There are some files
-and configuration options that you will have to change, even though we
-made every effort possible to maintain backwards compatibility.
-
-  In order to discover new features to use, please check the configuration
-examples in the [configs] directory of the source code distribution.  For a
-list of new features in this version of Asterisk, see the [CHANGES] file.
-
-### NEW INSTALLATIONS
+### __NEW INSTALLATIONS__
 
   Ensure that your system contains a compatible compiler and development
 libraries.  Asterisk requires either the GNU Compiler Collection (GCC) version
