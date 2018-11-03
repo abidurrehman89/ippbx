@@ -6,32 +6,25 @@
 
 ## WHAT IS ASTERISK ?
 
-  Asterisk is an open source framework for developing state-of-the-art communications solutions. Developers use Asterisk to create innovative, custom products because it makes it easy to build almost any communications application you can imagine. It includes hundreds of pre-built components that handle the complex, low-level details of voice, video, and text communications. Asterisk powers many applications, including automatic call distributors, conference bridges, voicemail, unified messaging, and hundreds of other [applications](https://www.asterisk.org/get-started/applications). Discover how Asterisk can power your next-generation communications deployment.
+  Asterisk is an open source framework for developing state-of-the-art communications solutions. Developers use Asterisk to create innovative, custom products because it makes it easy to build almost any communications application you can imagine. It includes hundreds of pre-built components that handle the complex, low-level details of voice, video, and text communications. Asterisk powers many applications, including automatic call distributors, conference bridges, voicemail, unified messaging, and hundreds of other [applications](https://www.asterisk.org/get-started/applications).
   
   The original Asterisk code was written by Mark Spencer, the founder of Digium. It started out as the core of his office phone system, and now it powers millions of business phone systems around the world. Since its initial release, Asterisk has continued to be enhanced by a community of thousands of users and developers worldwide.
-  
-  
-  Asterisk is an Open Source PBX and telephony toolkit.  It is, in a
-sense, middleware between Internet and telephony channels on the bottom,
-and Internet and telephony applications at the top.  However, Asterisk supports
-more telephony interfaces than just Internet telephony.  Asterisk also has a
-vast amount of support for traditional PSTN telephony, as well.
 
-  For more information on the project itself, please visit the Asterisk
+  For more information on the Asterisk project, please visit the Asterisk
 [home page] and the official [wiki].  In addition you'll find lots
 of information compiled by the Asterisk community at [voip-info.org].
 
-  There is a book on Asterisk published by O'Reilly under the Creative Commons
+  For developers and administrators, a book on Asterisk published by O'Reilly under the Creative Commons
 License. It is available in book stores as well as in a downloadable version on
-the [asteriskdocs.org] web site.
+the [asteriskdocs.org] web site. The name of the book is "Asterisk: The Definitive Guide".
 
 ## SUPPORTED OPERATING SYSTEMS
 
 ### Linux
 
   The Asterisk Open Source PBX is developed and tested primarily on the
-GNU/Linux operating system, and is supported on every major GNU/Linux
-distribution.
+GNU/[Linux](https://www.voip-info.org/asterisk-os-platforms) operating system, and is supported on every major GNU/Linux
+distribution. it does not support windows platform so far.
 
 ### Others
 
