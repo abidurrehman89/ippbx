@@ -23,13 +23,12 @@ the [asteriskdocs.org] web site. The name of the book is "Asterisk: The Definiti
 ### Linux
 
   The Asterisk Open Source PBX is developed and tested primarily on the
-GNU/[Linux](https://www.voip-info.org/asterisk-os-platforms) operating system, and is supported on every major GNU/Linux
+GNU/[Linux operating system]((https://www.voip-info.org/asterisk-os-platforms), and is supported on every major GNU/Linux
 distribution. it does not support windows platform so far.
 
-### Others
+### Non-Linux
 
-  Asterisk has also been 'ported' and reportedly runs properly on other
-operating systems as well, including Sun Solaris, Apple's Mac OS X, Cygwin,
+  Asterisk is also compiled with limited functionality on these [non-Linux systems](https://www.voip-info.org/asterisk-os-platforms/), including Sun Solaris, Apple's Mac OS X, Cygwin,
 and the BSD variants.
 
 ## GETTING STARTED
