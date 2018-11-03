@@ -24,20 +24,7 @@
 
   Asterisk is also compiled with limited functionality on these [non-Linux systems](https://www.voip-info.org/asterisk-os-platforms/), including Sun Solaris, Apple's Mac OS X, Cygwin, and the BSD variants.
 
-## GETTING STARTED
-
-  First, be sure you've got supported hardware (but note that you don't need
-ANY special hardware, not even a sound card) to install and run Asterisk.
-
-Supported telephony hardware includes:
-* All Analog and Digital Interface cards from [Digium]
-* QuickNet Internet PhoneJack and LineJack (http://www.quicknet.net)
-* any full duplex sound card supported by ALSA, OSS, or PortAudio
-* any ISDN card supported by mISDN on Linux
-* The Xorcom Astribank channel bank
-* VoiceTronix OpenLine products
-
-### __NEW INSTALLATIONS__
+### How to Install Asterisk on CentOS 7
 
   Ensure that your system contains a compatible compiler and development
 libraries.  Asterisk requires either the GNU Compiler Collection (GCC) version
