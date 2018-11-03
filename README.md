@@ -251,7 +251,7 @@ Welcome to the growing worldwide community of Asterisk users!
 
 Asterisk is a trademark of Digium now acquired by Sangoma, Inc.
 
-[Apllications]: https://www.asterisk.org/get-started/applications
+[apllications]: https://www.asterisk.org/get-started/applications
 [home page]: https://www.asterisk.org
 [support]: https://www.asterisk.org/support
 [wiki]: https://wiki.asterisk.org/
