@@ -10,26 +10,19 @@
   
   The original Asterisk code was written by Mark Spencer, the founder of Digium. It started out as the core of his office phone system, and now it powers millions of business phone systems around the world. Since its initial release, Asterisk has continued to be enhanced by a community of thousands of users and developers worldwide.
 
-  For more information on the Asterisk project, please visit the Asterisk
-[home page] and the official [wiki].  In addition you'll find lots
-of information compiled by the Asterisk community at [voip-info.org].
+  For more information on the Asterisk project, please visit the Asterisk [home page] and the official [wiki].  In addition you'll find lots of information compiled by the Asterisk community at [voip-info.org].
 
-  For developers and administrators, a book on Asterisk published by O'Reilly under the Creative Commons
-License. It is available in book stores as well as in a downloadable version on
-the [asteriskdocs.org] web site. The name of the book is "Asterisk: The Definitive Guide".
+  For developers and administrators, a book on Asterisk published by O'Reilly under the Creative Commons License. It is available in book stores as well as in a downloadable version on the [asteriskdocs.org] web site. The name of the book is "Asterisk: The Definitive Guide".
 
 ## SUPPORTED OPERATING SYSTEMS
 
 ### Linux
 
-  The Asterisk Open Source PBX is developed and tested primarily on the
-GNU/[Linux operating system](https://www.voip-info.org/asterisk-os-platforms), and is supported on every major GNU/Linux
-distribution. it does not support windows platform so far.
+  The Asterisk Open Source PBX is developed and tested primarily on the GNU/[Linux operating system](https://www.voip-info.org/asterisk-os-platforms), and is supported on every major GNU/Linux distribution. it does not support MS Windows/NT platform so far.
 
 ### Non-Linux
 
-  Asterisk is also compiled with limited functionality on these [non-Linux systems](https://www.voip-info.org/asterisk-os-platforms/), including Sun Solaris, Apple's Mac OS X, Cygwin,
-and the BSD variants.
+  Asterisk is also compiled with limited functionality on these [non-Linux systems](https://www.voip-info.org/asterisk-os-platforms/), including Sun Solaris, Apple's Mac OS X, Cygwin, and the BSD variants.
 
 ## GETTING STARTED
 
