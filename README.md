@@ -1,1 +1,1 @@
-Asterisk is a Popular IP PBX
+The Asterisk(R) Open Source PBX
